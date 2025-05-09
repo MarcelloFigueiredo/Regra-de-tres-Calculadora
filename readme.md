@@ -10,4 +10,4 @@ Este é um projeto de uma **calculadora de regra de três** desenvolvida utiliza
 
 ## 🌐 Acesse Aqui
 
-Você pode acessar o jogo diretamente através deste [link](https://marcellofigueiredo.github.io/calcular-regradetres/). 
+Você pode acessar o jogo diretamente através deste [link](https://marcellofigueiredo.github.io/Regra-de-tres-Calculadora/). 
